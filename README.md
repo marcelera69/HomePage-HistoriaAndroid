@@ -14,7 +14,7 @@ Projeto construído do Curso em Video.
 
 - HTML
 - CSS
-- Git 
+- Git / GitHub
 
 ## 💛 Contato
 
