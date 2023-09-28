@@ -1,6 +1,7 @@
 # HomePage-HistoriaAndroid
 
-![preview](imagens/Preview.png)
+![preview](imagens/PreviewAnd.png)
+![preview](imagens/PreviewAnd2.png)
 
 > Módulo 2
 
